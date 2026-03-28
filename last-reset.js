@@ -14,7 +14,7 @@ function lastreset() {
 }
 
 function showLastMeme() {
-  const memes = ["./img/meme5.jpeg"];
+  const memes = ["meme5.jpeg"];
 
   const img = document.createElement("img");
   img.src = memes[0];
