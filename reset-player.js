@@ -15,10 +15,10 @@ function reset() {
 
 function showMeme() {
   const memes = [
-    "./img/meme1.jpeg",
-    "./img/meme2.jpeg",
-    "./img/meme3.jpeg",
-    "./img/meme4.jpeg",
+    "meme1.jpeg",
+    "meme2.jpeg",
+    "meme3.jpeg",
+    "meme4.jpeg",
   ];
 
   const randomIndex = Math.floor(Math.random() * memes.length);
